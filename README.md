@@ -11,7 +11,7 @@ Sarah Nsereko
 - 💬 Ask me about C
 - 📫 How to reach me: sarahnsereko59@gmail.com
 - 😄 Pronouns: She/Her
-  Badges received so far:
+  -Badges received so far:
 - https://www.credly.com/badges/a876aaa2-2368-4542-9b73-65f5c8ee8c43/public_url
 
 
