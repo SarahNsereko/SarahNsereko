@@ -6,7 +6,7 @@ Sarah Nsereko
 
 
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on Networking , reverse engineering  and digital forensics problems.
+- 👯 I’m looking to collaborate on Network Security ,Penetration testing and Digital Forensics.
 - 🤔 I’m looking for help with C++, PHP , Java
 - 💬 Ask me about C programming
 - 📫 How to reach me: sarahnsereko59@gmail.com
