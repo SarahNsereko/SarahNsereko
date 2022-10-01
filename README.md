@@ -6,7 +6,7 @@ Sarah Nsereko
 
 
 - 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on Networking, Security and Java development
+- 👯 I’m looking to collaborate on Networking, CyberSecurity and Java development
 - 📫 How to reach me: sarahnsereko59@gmail.com
 - 😄 Pronouns: She/Her
 - Badges received so far:
