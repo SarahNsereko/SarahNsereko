@@ -5,7 +5,7 @@ I'm Sarah Nsereko
 
 
 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning web programming
 - 👯 I’m looking to collaborate on Networking, CyberSecurity and Java development
 - 📫 How to reach me: sarahnsereko59@gmail.com
 
