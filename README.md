@@ -5,7 +5,7 @@ I'm Sarah Nsereko
 
 
 
-- 🌱 I’m currently learning web programming
+- 🌱 I’m currently working on a web app in PHP .
 - 👯 I’m looking to collaborate on Mobile and Web App Development Projects.
 - 📫 How to reach me: sarahnsereko59@gmail.com
 
