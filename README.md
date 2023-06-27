@@ -1,4 +1,4 @@
-# 💫 Hi Im Sarah ,
+# 💫 Hi I'm Sarah ,
 🌱 I’m currently working on a full stack web application in PHP .<br><br>👯 I’m looking to collaborate on Mobile and Web App Development Projects.<br><br>📫 How to reach me: sarahnsereko59@gmail.com<br><br>Badges received so far:<br><br>https://www.credly.com/badges/a876aaa2-2368-4542-9b73-65f5c8ee8c43/public_url<br><br>https://www.credly.com/badges/1c1e0f8b-355a-49e6-a8f4-9772d0ecd2a4/public_url
 
 
